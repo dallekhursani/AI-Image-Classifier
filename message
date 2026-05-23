@@ -1,0 +1,5 @@
+feat: add drag-and-drop image upload
+fix: handle invalid MIME type error gracefully
+refactor: extract base64 logic into imageUtils
+style: adjust confidence bar colors
+docs: update README with setup instructions
